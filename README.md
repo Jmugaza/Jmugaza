@@ -9,11 +9,16 @@ I am passionate a Software Developer based in Cleveland, OH, and I enjoy solving
 ### Skills
 
 **Programming Languages:** 
-- JavaScript  - Python
+- JavaScript
+- Python
+
 **Technologies & Tools:** 
-- Git - AWS - Terraform - Linux - React.js - VS Code
-**Interests:**
-- DevOps Engineer | - Cloud Engineer
+- Git
+- AWS
+- Terraform
+- Linux
+- React.js
+- VS Code
 
 ### Projects
 
