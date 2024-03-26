@@ -1,16 +1,27 @@
-### Hi there 👋
+# Welcome to my GitHub profile!
 
-<!--
-**Jmugaza/Jmugaza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##Hello! 👋 I'm [Jeilani Mugaza]
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am passionate a [Software Developer] based in [Cleveland, OH], and I enjoy [solving problems]. Outside of work I like ride a motocycle and play video games.
+
+## Skills
+
+- **Programming Languages:** [JavaScript, Python]
+- **Technologies & Tools:** [Git, AWS, Terraform, Linux, React.js, VS Code]
+- **Interests:** [DevOps Engineer | Cloud Engineer]
+
+## Projects
+
+Here are a few projects I've been working on:
+
+- [The Cloud Resume Challeng](https://github.com/Jmugaza/cloud-resume-challenge)
+- [Memory Game](https://github.com/Jmugaza/memory-game)
+
+
+## Connect With Me
+
+- **LinkedIn:** [Your LinkedIn Profile URLhttps://www.linkedin.com/in/j-mugaza/]
+
+
