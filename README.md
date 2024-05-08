@@ -4,7 +4,7 @@
 
 ### About Me
 
-I am passionate a Software Developer | Cloud Engineer based in Cleveland, OH and I enjoy solving problems. Outside of work I like to ride a motocycle and play video games.
+I am passionate a Software Developer | Cloud Engineer based in Cleveland, OH and I enjoy solving problems.
 
 ### Skills
 
